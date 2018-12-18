@@ -1,0 +1,5 @@
+slack_token:
+bot_name: dashbot
+graph_urls:
+  jenkins: https://snapshot.raintank.io/dashboard/snapshot/CKW1VdGL7HX6v8QuDgp5sGXhjTGDMkbu
+  ms-perf: https://snapshot.raintank.io/dashboard/snapshot/wnrBlnUaSDsp1kG2QO5S118fQQeTP3CF

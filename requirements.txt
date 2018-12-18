@@ -1,0 +1,6 @@
+requests
+grafana_api
+docker
+pyyaml
+slackclient
+argparse
